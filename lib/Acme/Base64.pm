@@ -3,7 +3,7 @@ package Acme::Base64;
 use warnings;
 use strict;
 
-use version; our $VERSION = qv('0.0.1');
+use version; our $VERSION = qv('0.0.2');
 
 use MIME::Base64;
 use Filter::Simple;
@@ -21,7 +21,7 @@ Acme::Base64 - Write Perl in Base64 encoding
 
 =head1 VERSION
 
-This document describes Acme::Base64 version 0.0.1
+This document describes Acme::Base64 version 0.0.2
 
 
 =head1 SYNOPSIS
